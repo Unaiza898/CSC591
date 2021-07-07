@@ -9,7 +9,7 @@ function App() {
             Name
           </th>
           <tr>
-            <td>Enter your name here</td>
+            <td>Unaiza</td>
           </tr>
         </table>
       </header>
